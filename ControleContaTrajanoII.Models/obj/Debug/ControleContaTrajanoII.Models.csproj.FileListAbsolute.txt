@@ -1,0 +1,6 @@
+C:\Projeto\ControleContaTrajanoII.WEB\ControleContaTrajanoII.Models\bin\Debug\ControleContaTrajanoII.Models.dll
+C:\Projeto\ControleContaTrajanoII.WEB\ControleContaTrajanoII.Models\bin\Debug\ControleContaTrajanoII.Models.pdb
+C:\Projeto\ControleContaTrajanoII.WEB\ControleContaTrajanoII.Models\obj\Debug\ControleContaTrajanoII.Models.csprojResolveAssemblyReference.cache
+C:\Projeto\ControleContaTrajanoII.WEB\ControleContaTrajanoII.Models\obj\Debug\ControleContaTrajanoII.Models.csproj.CoreCompileInputs.cache
+C:\Projeto\ControleContaTrajanoII.WEB\ControleContaTrajanoII.Models\obj\Debug\ControleContaTrajanoII.Models.dll
+C:\Projeto\ControleContaTrajanoII.WEB\ControleContaTrajanoII.Models\obj\Debug\ControleContaTrajanoII.Models.pdb
